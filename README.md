@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshmillan
 - 👀 I’m interested in everything which makes me fun
-- 🌱 I’m currently learning blue prism and Ui Path
+- 🌱 I’m currently learning Python and AWS
 - 💞️ I’m looking to collaborate on elon musk
 - 📫 How to reach me search me as vikas hegde on insta
 
